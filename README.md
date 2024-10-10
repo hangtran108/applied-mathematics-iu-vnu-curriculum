@@ -1,4 +1,6 @@
-# Applied Mathematics (Finance Engineering & Risk Management)
+# Applied Mathematics (Financial Engineering & Risk Management)
+
+For a detailed course description to apply for a Master's programme, do not hesitate to contact me via email tranviethang1082000@gmail.com.
 
 ## Semester 1
 
