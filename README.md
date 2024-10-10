@@ -29,7 +29,7 @@ For a detailed course description to apply for a Master's programme, do not hesi
 - [Probability](probability)
 - [Numerical Analysis](numerical-analysis)
 - [Optimization 1](optimization-1)
-- Introduction to Corporate Finance
+- [Introduction to Corporate Finance](corporate-finance)
 - Financial Management
 - [Data Mining](https://github.com/hangtran108/data-mining-project) (Elective) 
 
