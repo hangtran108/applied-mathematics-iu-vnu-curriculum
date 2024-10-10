@@ -20,7 +20,7 @@
 - [Real Analysis](real-analysis)
 - [Differential Equations](differential-equations)
 - Financial Accounting
-- [Database Management System](database-management-system-project)
+- [Database Management System](https://github.com/hangtran108/database-management-system-project)
 
 ## Semester 4
 
@@ -29,7 +29,7 @@
 - [Optimization 1](optimization-1)
 - Introduction to Corporate Finance
 - Financial Management
-- [Data Mining](data-mining-project) (Elective) 
+- [Data Mining](https://github.com/hangtran108/data-mining-project) (Elective) 
 
 ## Semester 5
 
@@ -54,4 +54,4 @@
   
 ## Semester 7
 
-- [Graduation thesis](driver-churn-prediction)
+- [Graduation thesis](https://github.com/hangtran108/driver-churn-prediction)
