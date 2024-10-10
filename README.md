@@ -52,6 +52,6 @@
 - [Research Methods in Finance](research-methods-in-finance)
 - [Financial Math 2](financial-math-2)
   
-## Semester 7
+## Semester 8
 
 - [Graduation thesis](https://github.com/hangtran108/driver-churn-prediction)
