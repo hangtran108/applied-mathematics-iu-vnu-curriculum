@@ -20,7 +20,7 @@
 - [Real Analysis](real-analysis)
 - [Differential Equations](differential-equations)
 - Financial Accounting
-- Database Management System
+- [Database Management System](database-management-system-project)
 
 ## Semester 4
 
@@ -29,7 +29,7 @@
 - [Optimization 1](optimization-1)
 - Introduction to Corporate Finance
 - Financial Management
-- Data Mining (Elective)
+- [Data Mining](data-mining-project) (Elective) 
 
 ## Semester 5
 
@@ -42,7 +42,6 @@
 
 ## Semester 6
 
-- Financial Risk 1
 - [Financial Risk 2](financial-risk-2) (Elective)
 - [Econometrics](econometrics)
 - Portfolio Management
@@ -52,3 +51,7 @@
 
 - [Research Methods in Finance](research-methods-in-finance)
 - [Financial Math 2](financial-math-2)
+  
+## Semester 7
+
+- [Graduation thesis](driver-churn-prediction)
